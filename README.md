@@ -1,4 +1,5 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%"/>
+
 # 💫 Hello world! I'm Thanan, a jack of all trades:
 🔭 I’m currently working on AI solution for Mall Project and Data Specialist at Breman Utiliteit Zwolle<br>🤝 I’m looking for help with Optimizing performance with my giant datasets<br>🌱 I’m currently learning Deep Learning<br>⚡ Fun fact: I spend more time in front of a computer than in my bed!
 
