@@ -2,7 +2,7 @@
 # 💫 Hello world! I'm Thanan, a jack of all trades:
 <img src="banner_github.png" alt="GitHub Banner" width="100%"/>
 
-`- Currently working on AI solution for Mall Project and Data Specialist at Breman Utiliteit Zwolle<br>- Looking for help with Optimizing performance with my giant datasets<br>- Currently learning Deep Learning<br>- Fun fact: I spend more time in front of a computer than in my bed!
+* Currently working on AI solution for Mall Project and Data Specialist at Breman Utiliteit Zwolle<br> * Looking for help with Optimizing performance with my giant datasets<br> * Currently learning Deep Learning<br> * Fun fact: I spend more time in front of a computer than in my bed!
 
 
 ## 🌐 Socials:
